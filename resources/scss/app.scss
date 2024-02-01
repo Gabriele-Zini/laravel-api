@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/bootstrap";
+
+
+img {
+    max-width: 100%;
+}
+
+.ms_show-image {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
